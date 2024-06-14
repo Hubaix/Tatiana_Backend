@@ -1,0 +1,13 @@
+langchain-community
+openai
+pandas
+python-docx
+requests
+wikipedia
+python-dotenv
+tavily-python
+fastapi
+uvicorn
+numpy
+docx
+
